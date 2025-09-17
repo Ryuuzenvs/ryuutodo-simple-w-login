@@ -1,0 +1,3 @@
+download zip repository nya
+ekstrak zip ke htdocs
+import database sesuai nama fileny (db_simple), buat database nya dlu, lalu import.
