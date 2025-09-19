@@ -1,7 +1,7 @@
 # ryuutodo-simple-w-login
 # sc by ryuu
-READ THIS
-spesification :
+baca ini
+# spesification :
 1. crud 1 tabel dengan 4 kolom nama, status, prioritas, deadline
 2. simplest code, minim ui
 3. focus functionoal pada app
